@@ -2,7 +2,11 @@
 
 Welcome to ProLingo Translate! 🌐✨
 
-![ProLingo Translate Logo](images/pro-lingo-translate-logo.png)
+<p align="center">
+  <img src="Assets/pro-lingo-translate-logo.png" alt="ProLingo Translate Logo">
+</p>
+
+
 
 ## About
 
